@@ -1,5 +1,5 @@
 text,predicted_class,positive_probability,confidence
 "An emotional, beautifully acted movie with a memorable story. I loved every minute of it.",positive,0.7605210542678833,0.7605210542678833
-"The plot was boring, the acting was weak, and I regretted watching this film.",negative,0.28487998247146606,0.7151200175285339
+"The plot was boring, the acting was weak, and I regretted watching this film.",negative,0.284879982471466,0.7151200175285339
 A surprisingly enjoyable film with great performances and a satisfying ending.,positive,0.8917480707168579,0.8917480707168579
-"The movie was confusing and painfully slow, with characters that were impossible to care about.",negative,0.34756705164909363,0.652432918548584
+"The movie was confusing and painfully slow, with characters that were impossible to care about.",negative,0.3475670516490936,0.652432918548584
