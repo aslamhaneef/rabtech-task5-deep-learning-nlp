@@ -1,0 +1,21 @@
+{
+  "task": "RabTech Task 5",
+  "framework": "TensorFlow / Keras",
+  "dataset": "IMDB movie reviews",
+  "task_type": "binary text classification",
+  "random_seed": 42,
+  "max_tokens": 20000,
+  "sequence_length": 250,
+  "embedding_dimension": 128,
+  "epochs_requested": 15,
+  "epochs_completed": 7,
+  "test_metrics": {
+    "accuracy": 0.84604,
+    "precision": 0.8906348776302718,
+    "recall": 0.78896,
+    "f1": 0.836719976244008,
+    "roc_auc": 0.9209736736
+  },
+  "model_path": "artifacts\\imdb_sentiment_model.keras",
+  "vocabulary_path": "artifacts\\vocabulary.csv"
+}
