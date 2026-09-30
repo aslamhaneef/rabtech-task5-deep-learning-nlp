@@ -1,0 +1,30 @@
+# Task 5 Submission Checklist
+
+- [ ] Notebook runs from first cell to final cell without errors
+- [ ] TensorFlow version printed successfully
+- [ ] IMDB train/validation/test sizes shown
+- [ ] TextVectorization vocabulary created from training data only
+- [ ] Model summary visible
+- [ ] BatchNormalization layers visible
+- [ ] Dropout layers visible
+- [ ] EarlyStopping callback used
+- [ ] ReduceLROnPlateau callback used
+- [ ] Training output completed
+- [ ] Loss convergence curve visible
+- [ ] Accuracy convergence curve visible
+- [ ] Test accuracy/precision/recall/F1/ROC-AUC shown
+- [ ] Confusion matrix shown
+- [ ] Unseen sample inference table shown
+- [ ] Classification confidence shown
+- [ ] Model saved under artifacts/
+- [ ] Vocabulary saved under artifacts/
+- [ ] Training history saved
+- [ ] Test metrics saved
+- [ ] Inference outputs saved
+- [ ] Run metadata saved
+- [ ] README.md included
+- [ ] implementation_note.md included
+- [ ] requirements.txt included
+- [ ] Public GitHub repository created
+- [ ] Final public repository URL checked
+- [ ] Only after all checks: submit the public link to RabTech
